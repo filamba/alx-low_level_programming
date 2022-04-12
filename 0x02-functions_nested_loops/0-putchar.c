@@ -6,7 +6,7 @@ include "main.h"
  **/
 int main(void)
 {
-	char ermiaas[] = "_putchar";
+	char ermias[] = "_putchar";
 
 	int c;
 
