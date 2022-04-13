@@ -4,13 +4,11 @@
 /**
  * main - entry block
  * 
- * @void: no argument
- * return: 0
- **/
+ * Return: nothing, return void
+ */
 
 int main(void)
 {
-
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
