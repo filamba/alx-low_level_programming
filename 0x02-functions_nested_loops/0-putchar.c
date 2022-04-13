@@ -1,9 +1,10 @@
 #include "main.h"
 
+
 /**
- * main - entry point
- *  
- * Return: nothing, return void
+ * main - Entry point
+ *
+ * Return: Nothing, return void
  */
 
 int main(void)
