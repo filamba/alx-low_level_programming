@@ -2,14 +2,14 @@
 
 /**
  * main - tests function thst prints if integer is posetive or negative
- * return: 0
+ * return: zero
  */
 
 int main(void)
 {
 	int i;
 
-	i=98;
+	i=0;
 	posetive_or_negative(i);
 
 	return (0);
